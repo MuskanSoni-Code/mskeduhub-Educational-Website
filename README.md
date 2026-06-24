@@ -11,8 +11,8 @@ MSK EduHub is an educational website designed to provide students with study mat
 - HTML5
 - CSS3
 
-## Live Demo
-Add your Netlify link here"https://mskeduhub.netlify.app/"
+## 🌐 Live Demo
+👉 https://mskeduhub.netlify.app
 
 ## Author
 Muskan Soni
