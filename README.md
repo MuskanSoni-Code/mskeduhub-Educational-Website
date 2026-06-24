@@ -10,7 +10,7 @@ MSK EduHub is an educational website designed to provide students with study mat
 ## Technologies Used
 - HTML5
 - CSS3
-- 
+
 ## Live Demo
 Add your Netlify link here"https://mskeduhub.netlify.app/"
 
