@@ -616,7 +616,6 @@ button {
   #startNow {
     width: 95%;
     margin-top: 160rem;
-    border: 2px solid red;
   }
 
   #startNow > img {
@@ -627,7 +626,6 @@ button {
     grid-template-columns: 1fr;
     text-align: center;
     margin-top: 12rem;
-    border: 2px solid red;
   }
 
   .social {
