@@ -594,7 +594,6 @@ button {
 
   #cards {
     grid-template-columns: 1fr;
-    border: 2px solid red;
   }
 
   .container-features {
